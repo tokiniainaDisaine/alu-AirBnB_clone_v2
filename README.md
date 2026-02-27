@@ -34,8 +34,10 @@ This repository contains the initial stage of a student project building a clone
 4. When this command is run the following prompt should appear:
 
 ```
-(hbnb)
+(hbnb) 
 ```
+
+(test)
 
 5. This prompt designates you are in the "HBnB" console. There are a variety of commands available within the console program.
 
